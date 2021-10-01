@@ -1,0 +1,74 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (5.4.3)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - ESPullToRefresh (2.9.3)
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - GrowingTextView (0.7.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - QuickLayout (3.0.0)
+  - SkyFloatingLabelTextField (4.0.0)
+  - SwiftEntryKit (1.2.7):
+    - QuickLayout (= 3.0.0)
+  - SwiftyJSON (5.0.1)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire
+  - Charts
+  - ESPullToRefresh
+  - FlagPhoneNumber
+  - GrowingTextView (= 0.7.2)
+  - IQKeyboardManagerSwift
+  - SkyFloatingLabelTextField
+  - SwiftEntryKit
+  - SwiftyJSON
+  - YYWebImage
+
+SPEC REPOS:
+  trunk:
+    - ActiveLabel
+    - Alamofire
+    - Charts
+    - ESPullToRefresh
+    - FlagPhoneNumber
+    - GrowingTextView
+    - IQKeyboardManagerSwift
+    - QuickLayout
+    - SkyFloatingLabelTextField
+    - SwiftEntryKit
+    - SwiftyJSON
+    - YYCache
+    - YYImage
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+  SwiftEntryKit: 537c92699d6034efb1ef9c32b11e0b37c97aa589
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: b27945b21550a2409422e0ceb6c3440a1ac619ce
+
+COCOAPODS: 1.10.1

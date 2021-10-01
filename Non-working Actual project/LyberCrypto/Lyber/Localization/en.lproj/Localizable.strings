@@ -1,0 +1,353 @@
+/* 
+  Localizable.strings
+  LyberCrypto
+
+  Created by Rahul's Mac on 25/08/21.
+  
+*/
+
+"Skip" = "SKIP";
+"Next" = "NEXT";
+"Back" = "BACK";
+"Login" = "Login";
+"LOGIN" = "LOGIN";
+"Sign_Up" = "Sign Up";
+"SIGN_Up" = "SIGN UP";
+"Splash_Content_1" = "Lyber’s main purpose is to provide everyone with a ";
+"Splash_Sub_Content_1_1" = "safe";
+"Splash_Sub_Content_1_2" = " and ";
+"Splash_Sub_Content_1_3" = "easy";
+"Splash_Sub_Content_1_4" = " access to digital assets investment";
+"Splash_Content_2" = "Send digital assets to your friends in less ";
+"Splash_Sub_Content_2_1" = "than 30 seconds";
+"Splash_Content_3" = "Grow your portfolio and receive ";
+"Splash_Sub_Content_3_1" = "daily returns";
+"Splash_Sub_Content_3_2" = " on your account";
+"Splash_Content_4" = "Track your portfolio ";
+"Splash_Sub_Content_4_1" = "performances";
+"Splash_Sub_Content_4_2" = " and stay up to date with our ";
+"Splash_Sub_Content_4_3" = "weekly";
+"Splash_Sub_Content_4_4" = " newsletter";
+"Splash_Content_5" = "Invest in a ";
+"Splash_Sub_Content_5_1" = "secured";
+"Splash_Sub_Content_5_2" = " and ";
+"Splash_Sub_Content_5_3" = "regulated";
+"Splash_Sub_Content_5_4" = " environment with advanced identity verification";
+
+"Welcome_Back" = "Welcome Back";
+"Email_address" = "Email address";
+"Password" = "Password";
+"Forgot_your_password" = "Forgot your password?";
+"Sign_Up" = "Sign Up";
+"Dont_have_an_account" = "Dont have an account?";
+"Forgot_Password" = "Forgot Password?";
+"Forgot_Password_Desc" = "Enter your registered email address to receive password reset instructions";
+"Reset_Password" = "RESET PASSWORD";
+"Check_Your_Email" = "Check Your Email";
+"Check_Your_Email_Desc" = "Follow a password recovery instructions we have just sent to your email address ";
+"Back_to_Login" = "Back to Login";
+"Verification" = "Verification";
+"Verification_Desc" = "Please enter your PIN to proceed";
+"Promo_Code" = "Promo-Code";
+"Confirm_Pin" = "Confirm Pin";
+"New_Pin" = "New Pin";
+"Current_Pin" = "Current Pin";
+
+"Create_Account" = "Create Account";
+"First_Name" = "First Name";
+"Last_Name" = "Last Name";
+"Lets_Get_Started" = "LET'S GET STARTED";
+"Already_have_an_account" = "Already have an account? ";
+"Logout" = "Logout";
+
+"Email_Verification" = "Email Verification";
+"Email_verification_desc1" = "An email has been sent on the email ";
+"Email_verification_desc2" = "Please verify the email to continue using the app.";
+"EMAIL_VERIFIED_CAPS" = "EMAIL VERIFIED";
+"Next_Step" = "NEXT STEP";
+
+"Enter_Phone_No" = "Enter Phone No.";
+"Mobile_no" = "Mobile no.";
+"SUBMIT_CAPS" = "SUBMIT";
+"Phone_no" = "Phone no.";
+"Enter_Phone_No" = "Enter Phone No.";
+"Enter_Phone_Desc" = "Enter your phone number and you will receive the OTP on that number for phone number verification";
+
+
+"Verify_Number" = "Verify Number";
+"Verify_Number_Desc" = "Please enter the 4-digit number we have sent to your phone";
+
+
+"Add_Bank_Account" = "Add Bank Account";
+"Add_Bank_Account_Desc" = "Please add details of your registered bank account";
+"Name_On_Card" = "Name On Card";
+"Card_Number" = "Card Number";
+"CVV" = "CVV";
+"Expiry" = "Expiry";
+"AccountNum" = "Account Number";
+"RoutingNum" = "Routing Number";
+"Address" = "Address";
+"PostalCode" = "Postal Code";
+
+
+"Welcome_to_Lyber" = "Welcome to lyber";
+"Welcome_to_lyber_desc" = "To be able to deposit assets to your wallet, please start your profile verification.";
+"Start_Profile_Verification" = "START PROFILE VERIFICATION";
+"Verification_in_progress" = "Verification in progress";
+"Welcome_to_lyber_desc2" = "Your Profile Verification is now in progress. If you don't receive a confirmation in the next 24 hours, please ";
+"Welcome_to_lyber_desc3" = "contact our support.";
+
+"Open_your_secure_account" = "Open your secure account";
+"Open_your_secure_account_desc" = "Government regulation require us to learn more about you. This information will allow us to better protect you against fraud and identity theft. We keep all information securely stored.";
+"Residential_Address" = "Residential Address";
+"Investment_Experience" = "Investment Experience";
+"Identity_Verification" = "Identity Verification";
+"I_agree_with_the" = "I agree with the ";
+"Terms_of_Use" = "Terms of Use";
+"and_the" = " and the ";
+"Privacy_Policy" = "Privacy Policy";
+
+"Personal_Information" = "Personal Information";
+"Full_Name" = "Full Name";
+"Citizenship" = "Citizenship";
+"City" = "City";
+"ZIP_Area_code" = "ZIP/Area code";
+"Date_of_Birth" = "Date of Birth";
+"DONE" = "DONE";
+"CANCEL" = "CANCEL";
+"Subject" = "Subject";
+"Select_Date" = "Select Date";
+"Send_Message" = "Send Message";
+"Edit_Profile" = "Edit Profile";
+
+"Investment_Experience_Desc" = "We are required to ask the following questions to comply with international investment regulations.";
+"Investement_Expereince_SubTitle1" = "Do you have any investment expeience?";
+"Investement_Expereince_SubTitle2" = "What is your total wealth?";
+"Investement_Expereince_SubTitle3" = "What is your occupation?";
+"Investement_Expereince_SubTitle4" = "What is the origin of your funds?";
+"Please_Select" = "Please select";
+
+"Document_Verification" = "Document Verification";
+"Document_Verification_Desc" = "Your document photo helps us prove your identity. It should match the information you have provided in the previous steps.";
+"Passport" = "Passport";
+"Driving_License" = "Driving License";
+"Identity_Card" = "Identity Card";
+"Residence_Permit" = "Residence Permit";
+"Scan_Front_Side" = "Scan Front Side";
+"Scan_Back_Side" = "Scan Back Side";
+"Scan_Now" = "Scan Now";
+"Scan_Desc" = "Position your document inside the frame. Make sure that all the data is clearly visible.";
+"Take_Selfie" = "Take Selfie";
+"Take_Selfie_Desc" = "Aling your face in the center on the circle, and press the button";
+
+"Enter_Address" = "Enter Address";
+"House_Flat_no" = "House/Flat no.";
+"Enter_locality" = "Enter locality";
+
+"Upload_ID_Proof" = "Upload ID Proof";
+"Upload_photo_description" = "Please Upload Any Of The Document";
+"UPLOAD_PHOTO_CAPS" = "UPLOAD PHOTO";
+"Upload_photo_option1" = "Passport";
+"Upload_photo_option2" = "Driving License";
+"Upload_photo_option3" = "Identity Card";
+"Upload_photo_option4" = "Residence Permit";
+"Upload_photo_description2" = "Please Upload Front & Back Card Photo";
+"Front_card_photo" = "Front card photo";
+"Back_card_photo" = "Back card photo";
+"UPLOAD_CAPS" = "UPLOAD";
+"RETAKE" = "RETAKE";
+
+
+"Please_Upload_Your_Selfie" = "Please Upload Your Selfie";
+"Take_Selfie" = "Take Selfie";
+
+"Sign_Up_Complete" = "Sign Up Complete";
+"Sign_up_Complete_Desc" = "Congratulations, your request was submitted, we will review your documents in the next 24 hours";
+
+"Forgotten_your_password" = "Forgotten your password?";
+"Please_Enter_Your_Email" = "Please Enter Your Email.";
+"SEND_RESET_LINK" = "SEND RESET LINK";
+
+
+"Phone_Number" = "Phone Number";
+"Update_Address" = "Update Address";
+"Linked_Bank_Account" = "Linked Bank Account";
+"Security" = "Security";
+"Contact_Us" = "Support";
+"Log_Out" = "Log Out";
+"SAVE_CHANGES" = "SAVE CHANGES";
+"English" = "English";
+"French" = "French";
+"Change_Language_Description" = "Are you sure you want to change langauge to ";
+"Yes" = "Yes";
+"No" = "No";
+"Current_Password" = "Current Password";
+"New_Password" = "New Password";
+"Message" = "Message";
+"LogOut_Description" = "Are you sure you want to logout?";
+"Cancel" = "Cancel";
+"Notifications" = "Notifications";
+"Profile_Change_Desc" = "Your profile is now being reviewed. You can expect it to finish in the next 24 hours";
+"Well_Done" = "Well Done";
+"BACK_TO_PROFILE" = "BACK TO PROFILE";
+"Profile_phone_desc" = "Please enter your country and your phone number to receive a verification code";
+"Current_Phone_Number" = "Current Phone Number";
+"Countries" = "Countries";
+"Card_Details_Desc" = "Please add details of the card registered with your bank account";
+"Card_Details" = "Card Details";
+
+"Total_Balance" = "Total Balance";
+"Deposit_Funds" = "DEPOSIT FUNDS";
+"Assets_Cash" = "Assets + Cash";
+"Your_Assets" = "Your Assets";
+"News" = "News";
+"Bitcoin" = "Bitcoin";
+"Litecoin" = "Litecoin";
+"Ethereum" = "Ethereum";
+"Euro" = "Euro";
+"Earn_up_to_€50_in_LYB_tokens" = "Earn up to €50 in LYB tokens!";
+"Invite_your_friends" = "Invite your friends";
+"Weekly_Newsletter" = "Weekly Newsletter";
+"Chose_Payment_method" = "Choose Payment Method";
+"Chose_Withdrawal_method" = "Chose Withdrawal Method";
+"Credit_Card" = "Credit Card";
+"Wire_deposit" = "Wire deposit";
+"Earn_LYB_Tokens" = "Earn LYB Tokens";
+"Earn_LYB_Tokens_Desc1" = "Invite your friends to register on Lyber and earn up to €50 in LYB tokens for you and your friends when they sign-up and make their first deposit.";
+"Earn_LYB_Tokens_Desc2" = "A minimum deposit of €50 is required to earn LYB tokens.";
+"Share_Your_Invite_Link" = "Share Your Invite Link";
+"Copy" = "Copy";
+"Share" = "Share";
+"Terms_Conditions" = "Terms & Conditions";
+"Notifications" = "Notifications";
+
+
+"Wallet_Balance" = "Wallet Balance";
+"ADD" = "ADD";
+"WITHDRAW" = "WITHDRAW";
+"Your_Assets" = "Your Assets";
+"D" = "D";
+"M" = "M";
+"Y" = "Y";
+"W" = "W";
+"All" = "All";
+"SELL" = "SELL";
+"Add_Money" = "Add Money";
+"Add_Money_Desc" = "Enter the amount you want to add";
+"Select_Card" = "Select Card";
+"Add_Card" = "Add Card";
+"High" = "High";
+"Low" = "Low";
+"Buy" = "Buy";
+"Sell" = "Sell";
+"Deposit" = "Deposit";
+"Exchange" = "Exchange";
+"You_successfully_bought" = "You successfully bought";
+"You_successfully_sold" = "You successfully sold";
+"You_successfully_Sent" = "You successfully sent";
+"CONTINUE" = "CONTINUE";
+"Updated_Balance" = "Updated Balance";
+"To_Crypto" = "Exchange To";
+"I_want" = "I want: ";
+"I_have" = "I have: ";
+"You_successfully_exchange" = "You successfully exchanged";
+"SCAN_QR_Code" = "Scan QR Code";
+"Get_Wallet_Addres_Below" = "Get Wallet Address Below";
+"Wallet_Address" = "Wallet Address";
+"Enter_wallet_address" = "Enter wallet address";
+"No_of_tokens" = "Enter no. of tokens";
+
+"New_password" = "New password";
+"Current_password" = "Current password";
+"Change_Password" = "Change Password";
+
+
+"Assets" = "Assets";
+"Watchlists" = "Watchlists";
+"Transactions_type" = "Transactions type";
+"Select_All" = "Select All";
+"Clear_All" = "Clear All";
+"Deposited" = "Deposited";
+"Withdrawn" = "Withdrawn";
+"Withdraw" = "Withdraw";
+"Sent" = "Sent";
+"Exchanged" = "Exchanged";
+"All_Transactions" = "All Transactions";
+
+"Transaction_Details" = "Transaction Details";
+"Date" = "Date";
+"Time" = "Time";
+"Total_amount" = "Total amount";
+"Total_amount_€" = "Total amount in €";
+"Withdraw_fee" = "Withdraw fee";
+"Status" = "Status";
+"Transaction_ID" = "Transaction ID";
+"From" = "From";
+"To" = "To";
+"Transaction_confirmed" = "Transaction confirmed";
+"Back_to_Wallet" = "Back to Wallet";
+"External_Wallet" = "Withdrawal To External Wallet";
+"Friends" = "Send to Friends";
+
+"Send_Bitcoin" = "Send Bitcoin";
+"Phone_No" = "Phone No.";
+"BTC_Available" = "BTC Available";
+"Send_Desc" = "Enter the phone number of the person you want to transfer the funds to.";
+"Send" = "Send";
+"Email" = "Email";
+"Send_Desc2" = "Enter the email address of the person you want to transfer the funds to.";
+"Amount_€" = "Amount (€)";
+"Amount" = "Amount";
+"Recepient" = "Recepient";
+"Confirm_your_transaction" = "Confirm your transaction";
+"Send_To_Your_Friend" = "Send To Your Friend";
+"CONFIRM" = "CONFIRM";
+
+
+"PleaseEnterEmail" = "Please Enter Email";
+"PleaseEnterPassword" = "Please Enter Password";
+"PleaseEnterValidEmail" = "Please Enter Valid Email";
+"PleaseEnterValidPass" = "Please Enter Valid Password";
+"PleaseEnterName" = "Please Enter Name";
+"PleaseEnterLastName" = "Please Enter Last Name";
+"PleaseEnterFirstName" = "Please Enter First Name";
+"PleaseEnterValidName" = "Please Enter Valid Name";
+"PleaseEnterValidFirstName" = "Please Enter Valid First Name";
+"PleaseEnterValidLastName" = "Please Enter Valid Last Name";
+"PleaseEnterMobileNum" = "Please Enter Mobile Num";
+"PleaseEnterValidMobileNum" = "Please Enter Valid Phone Number";
+"PleaseEnterOtp" = "Please Enter Otp";
+"PleaseEnterAccountNum" = "Pleas Enter Account Number";
+"PleaseEnterCardNumber" = "Please Enter Card Number";
+"PleaseEnterValidCardNumber" = "Please Enter 16 digit Card Number";
+"PleaseEnterExpiryDate" = "Please Enter Expiry Date";
+"PleaseEnterValidExpiryDate" = "Please Enter Valid Expiry Date";
+"PleaseEnterCVV" = "Please Enter CVV";
+"PleaseEnterValidCVV" = "Please Enter 3 Or 4 digit CVV Number";
+"PleaseEnterRoutingNum" = "Pleas Enter Routing Number";
+"PleaseEnterSsnNum" = "Please Enter Ssn Number";
+"PleaseEnterValidSsnNum" = "Please Enter Last 4 digits of Ssn Number";
+"PleaseEnterHouseNum" = "Please Enter House Number";
+"PleaseSelectLocality" = "Please Select Locality";
+"PleaseSelectFrontCardPhoto" = "Please Select Front Card Photo";
+"PleaseSelectBackCardPhoto" = "Please Select Back Card Photo";
+"PleaseUploadSelfie" = "Please Upload Selfie";
+"PleaseEnterCurrentPass" = "Please Enter Current Password";
+"PleaseEnterValidPassword" = "Please Enter Valid Password. Password should be minimum 8 alphanumeric characters, with one special and one upper and lowercase character.";
+"PleaseEnterValidNewPassword" = "Please Enter Valid New Password. Password should be minimum 8 alphanumeric characters, with one special and one upper and lowercase character.";
+"PleaseEnterNewPassword" = "Please Enter New Password";
+"PleaseEnterMessage" = "Please Enter Message";
+"Minimum_age_required_is_18_years" = "Minimum age required is 18 years";
+"Please_accpt_terms_and_conditions" = "Please accept terms of use and privacy policy to continue.";
+"Passcode_didnt_matched" = "Passcode didn't matched,\nPlease try again!";
+"PleaseEnterFullName" = "Please Enter Full Name";
+"PleaseEnterValidFullName" = "Please Enter Valid Full Name";
+"PleaseSelectCitizenship" = "Please Select Citizenship";
+"PleaseEnterCity" = "Please Enter City";
+"PleaseEnterValidCity" = "Please Enter Valid City Name";
+"PleaseEnterZip" = "Please Enter Zip Code";
+"PleaseEnterValidZip" = "Please Enter Valid Zip Code";
+"PleaseeSelectDOB" = "Pleasee Select Date Of Birth";
+"PleaseEnterSubject" = "Please Enter Subject";
+"PleaseEnterPostalCode" = "Please Enter Postal Code";
+"PleaseEnterAddress" = "Please Enter Address";

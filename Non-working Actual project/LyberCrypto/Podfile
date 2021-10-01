@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Lyber' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Lyber
+
+  pod 'IQKeyboardManagerSwift'
+  pod 'SwiftEntryKit'
+  pod 'YYWebImage'
+  pod 'ESPullToRefresh'
+  pod 'ActiveLabel'
+  pod 'FlagPhoneNumber'
+  pod 'Charts'
+  pod 'SkyFloatingLabelTextField'
+  pod 'GrowingTextView', '0.7.2'
+  pod 'Alamofire'
+  pod 'SwiftyJSON'
+
+end

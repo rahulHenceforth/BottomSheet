@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CustomMarkerView" customModule="LyberCrypto" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="iN0-l3-epB" id="dMa-qq-v8R"/>
+                <outlet property="lblDate" destination="6o1-U4-tpe" id="Bay-x8-70F"/>
+                <outlet property="lblPrice" destination="c2O-Rd-NQ2" id="FVt-Fn-nCz"/>
+                <outlet property="markerView" destination="Vs6-uD-ZCr" id="wf6-uB-7Rm"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="132" height="52"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vs6-uD-ZCr">
+                    <rect key="frame" x="0.0" y="0.0" width="132" height="52"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c2O-Rd-NQ2">
+                            <rect key="frame" x="24" y="8" width="84" height="20.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6o1-U4-tpe">
+                            <rect key="frame" x="24" y="30.5" width="84" height="13.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="c2O-Rd-NQ2" firstAttribute="top" secondItem="Vs6-uD-ZCr" secondAttribute="top" constant="8" id="BZq-xY-sq7"/>
+                        <constraint firstAttribute="trailing" secondItem="c2O-Rd-NQ2" secondAttribute="trailing" constant="24" id="PBz-aG-WbY"/>
+                        <constraint firstItem="6o1-U4-tpe" firstAttribute="leading" secondItem="Vs6-uD-ZCr" secondAttribute="leading" constant="24" id="R3X-SH-mse"/>
+                        <constraint firstItem="c2O-Rd-NQ2" firstAttribute="leading" secondItem="Vs6-uD-ZCr" secondAttribute="leading" constant="24" id="VRB-uS-btV"/>
+                        <constraint firstItem="6o1-U4-tpe" firstAttribute="top" secondItem="c2O-Rd-NQ2" secondAttribute="bottom" constant="2" id="Wjq-Gv-nF3"/>
+                        <constraint firstAttribute="bottom" secondItem="6o1-U4-tpe" secondAttribute="bottom" constant="8" id="eG2-Qe-2Kq"/>
+                        <constraint firstAttribute="trailing" secondItem="6o1-U4-tpe" secondAttribute="trailing" constant="24" id="jre-bC-s8a"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="Vs6-uD-ZCr" secondAttribute="trailing" id="MtV-hn-E88"/>
+                <constraint firstItem="Vs6-uD-ZCr" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="VnV-2j-o88"/>
+                <constraint firstAttribute="bottom" secondItem="Vs6-uD-ZCr" secondAttribute="bottom" id="XE7-LG-yOW"/>
+                <constraint firstItem="Vs6-uD-ZCr" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="nBC-Gb-b40"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-240.57971014492756" y="68.303571428571431"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
